@@ -1,0 +1,2 @@
+Namespace(T=50, device='cuda:0', b=32, epochs=1000, j=4, data_dir='/mnt/hdd/data/haochonghe/datasets/DVS', out_dir='./logs/dvs', resume=None, mode='train', checkpoint='./logs/dvs/T50_b32_adam_lr0.001_epoch150_freclassfre2_seed1/checkpoint_max.pth', noise_std=0.0, num_seeds=1, seed=42, amp=False, opt='adam', momentum=0.9, lr=0.001, epoch1=100, fre=[-1, 0.25, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1])
+/mnt/hdd/data/haochonghe/motif/dvsgesmotif.py

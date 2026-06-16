@@ -1,0 +1,11 @@
+# Training dependencies for the classification / noise-robustness code
+# (the `classified` package: smnist + tidigits).
+torch>=1.12
+numpy
+tqdm
+# smnist loads MNIST via Keras (sequential-MNIST); only needed to TRAIN smnist:
+tensorflow            # provides tf.keras.datasets.mnist.load_data()
+# tidigits uses the bundled datasets/TIDIGITS/*.pkl — no extra dependency.
+#
+# Plotting (../plot) only needs:
+matplotlib

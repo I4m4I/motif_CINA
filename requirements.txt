@@ -1,0 +1,11 @@
+adjustText
+gym
+jupyter
+matplotlib
+nbconvert
+nbformat
+numpy
+pandas
+scipy
+torch
+umap-learn
