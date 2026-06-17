@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "CINA: Connectome-informed neural network algorithm for motif-constrained artificial neural networks"
+message: "If you use this software, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: "Sun"
+    given-names: "Yue"
+  - family-names: "Yao"
+    given-names: "Wangzi"
+  - family-names: "Zhang"
+    given-names: "Jian"
+  - family-names: "Song"
+    given-names: "Wei"
+  - family-names: "Zhao"
+    given-names: "Xuanle"
+  - family-names: "Zhang"
+    given-names: "Tielin"
+repository-code: "https://github.com/I4m4I/motif_CINA"
+license: "MIT"
