@@ -44,11 +44,11 @@ motif_nature_neuroscience/
 | **Fig. 4ef** (model benchmarks) | `*/rl/` + `*/classification/` | `walker`, `ant`, `ip`, `idp` (RL) · `smnist`, `tidigits`, `dvs` (noise robustness) |
 | **Fig. 5 a-d** (language QA) | `language_qa/results/` | `Fig5b` (radar), `Fig5c` (accuracy table) |
 | **Fig. 5 e-j** (BMI decoding) | `bmi_decoding/figures/` | per-dataset decoding accuracy |
-| **Fig. 6** (graph topology) | `*/topology/` | `modularity`, `smallworld` |
+| **Fig. 6 / S10** (graph topology) | `*/topology/` (+ `*/topology/<panel>/`) | `modularity`, `smallworld`, `fig6a` (community panels), `fig6f` (weight CDFs), `fig6g` (K–S heatmap), `figS10` (weight matrices) |
 
 ## Reproduce the analysis figures
 
-All 13 analysis figures (rl 4 + classification 3 + motif_fre 4 + topology 2)
+All 17 analysis figures (rl 4 + classification 3 + motif_fre 4 + topology 6)
 regenerate from the stored data:
 
 ```bash

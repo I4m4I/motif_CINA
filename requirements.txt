@@ -1,5 +1,6 @@
 adjustText
 gym
+infomap
 jupyter
 matplotlib
 nbconvert
@@ -7,5 +8,6 @@ nbformat
 numpy
 pandas
 scipy
+seaborn
 torch
 umap-learn
