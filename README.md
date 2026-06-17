@@ -63,7 +63,7 @@ always reproducible from `data/`.
 
 > **Time budget.** Environment setup ≈ **35 min** (dominated by the `mamba-ssm`
 > CUDA build). Full reproduction — training + evaluation across all experiments
-> — ≈ **40 h** on a single GPU. Regenerating the figures from the bundled
+> — ≈ **40 h** on a single GPU, ubuntu. Regenerating the figures from the bundled
 > `data/` takes seconds.
 
 ## Fig. 5 — Motif-Mamba experiments
